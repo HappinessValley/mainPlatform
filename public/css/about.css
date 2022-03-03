@@ -1,0 +1,91 @@
+/* Quote Section */
+
+.quote {
+  width: 60%;
+  margin: 10vh auto;
+  text-align: center;
+}
+
+.quote img {
+  width: 15%;
+  opacity: 0.5;
+}
+
+.quote h2 {
+  font-family: var(--heading-font);
+  font-size: 2rem;
+}
+
+/* Image Section */
+
+.image {
+  width: 80%;
+  margin: 10vh auto;
+}
+
+/* Mission Section */
+
+.mission {
+  width: 60%;
+  margin: 10vh auto;
+  text-align: center;
+}
+
+.mission h2 {
+  font-family: var(--heading-font);
+  font-size: 1.5rem;
+}
+
+/* Founder Section */
+
+.founder {
+  width: 80%;
+  margin: 15vh auto;
+}
+
+.founder-image img {
+  width: 60%;
+  border-radius: 25px;
+  transition: 1s;
+}
+
+.founder-image {
+  text-align: center;
+}
+
+.founder-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.founder h2 {
+  text-align: center;
+  font-family: var(--heading-font);
+  font-size: 4rem;
+}
+
+.founder h3 {
+  font-family: var(--heading-font);
+  font-size: 3rem;
+}
+
+.founder h4 {
+  font-family: var(--text-font);
+  font-size: 1.25rem;
+}
+
+.founder p {
+  font-family: var(--text-font);
+  font-size: 1rem;
+}
+
+/* Mobile View */
+
+@media only screen and (max-width: 500px) {
+  .quote,
+  .mission,
+  .founder-image img {
+    width: 90%;
+  }
+}

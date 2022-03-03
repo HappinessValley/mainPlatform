@@ -1,0 +1,67 @@
+{
+  "title": "Coaches",
+  "hero": "Our Coaches",
+  "css": "/css/coaches.css",
+  "details": [
+    {
+      "id": 1,
+      "image": "/images/Neelesh-Tiwari.png",
+      "name": "Dr. Neelesh Tiwari",
+      "designation": "MBBS, M.D.",
+      "content": [
+        "M.D. in Psychiatry",
+        "20 Years of Experience.",
+        "Worked as Chief in the Department of Psychiatry, K.G.M.C.",
+        "Worked in Institute of Human Behavior and Allied Sciences."
+      ]
+    },
+    {
+      "id": 2,
+      "image": "/images/Jyoti-Dhawan.png",
+      "name": "Jyoti Dhawan",
+      "designation": "Reiki Grand Master",
+      "content": [
+        "Worked as a Pranik Healer.",
+        "14 Years of Experience.",
+        "10 years of Experience as Angelic Healer.",
+        "Hosted workshops on Mudra Healing and Switch Words."
+      ]
+    },
+    {
+      "id": 3,
+      "image": "/images/Pallavi-Rao.png",
+      "name": "Pallavi Rao",
+      "designation": "Life Coach",
+      "content": [
+        "ICF - Certified Leadership Coach.",
+        "Founder of Isha Coaching.",
+        "More than 13 years of Experience.",
+        "Helping women professionals to discover their strengths."
+      ]
+    },
+    {
+      "id": 4,
+      "image": "/images/Neha-Wadhwa.png",
+      "name": "Neha Wadhwa",
+      "designation": "Pranic Healer",
+      "content": [
+        "Hypnotherapy is my Forte.",
+        "More than 10 years of Experience.",
+        "Pranic Healer, Hypnotherapist and Angel Card Reader.",
+        "Resolve problems via Telephonic and Personal Sessions."
+      ]
+    },
+    {
+      "id": 5,
+      "image": "/images/Manish-Gupta.png",
+      "name": "Manish Gupta",
+      "designation": "Financial Coach",
+      "content": [
+        "MBA-Finance, AMFI, ACAMS (USA)",
+        "More than 10 years of Experience.",
+        "Resolve problems via Telephonic and Personal Sessions.",
+        "Consulted many small and large scale companies and startups."
+      ]
+    }
+  ]
+}

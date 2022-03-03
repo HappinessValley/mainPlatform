@@ -1,0 +1,46 @@
+{{> hero}}
+
+<section class="details">
+  <div class="grid-container">
+    <div class="grid-item">
+      <img src={{image}} />
+    </div>
+    <div class="grid-item content">
+      <div>
+        <h2>{{title}}</h2>
+        <br /><br />
+        {{#each content}}
+          <p>{{this}}</p>
+          <br /><br />
+        {{/each}}
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr />
+
+<section class="instructor">
+  <h2>Course Instructor</h2>
+  <br /><br /><br /><br />
+  <div class="grid-container">
+    <div class="grid-item">
+      <h3>{{instuctorName}}</h3>
+      <br /><br /><br />
+      {{#each insructorContent}}
+        <p>{{this}}</p>
+        <br /><br />
+      {{/each}}
+      <a href="{{instructorPage}}">
+        <button class="pri-button">Know More</button>
+      </a>
+    </div>
+    <div class="grid-item">
+      <img src="{{instuctorImage}}" alt="{{instuctorName}}" />
+    </div>
+  </div>
+</section>
+
+<hr />
+
+{{> contactForm}}

@@ -1,0 +1,49 @@
+/* Details Section */
+
+.details {
+  width: 80%;
+  margin: 10vh auto;
+}
+
+.details h2 {
+  font-family: var(--heading-font);
+  font-size: 3rem;
+}
+
+.details p {
+  font-family: var(--text-font);
+  font-size: 1.25rem;
+}
+
+.details .content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Instructor Section */
+
+.instructor {
+  width: 80%;
+  margin: 10vh auto;
+}
+
+.instructor img {
+  border-radius: 10px;
+}
+
+.instructor h2 {
+  font-family: var(--heading-font);
+  font-size: 4rem;
+  text-align: center;
+}
+
+.instructor h3 {
+  font-family: var(--heading-font);
+  font-size: 3rem;
+}
+
+.instructor p {
+  font-family: var(--text-font);
+  font-size: 1.25rem;
+}

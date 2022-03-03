@@ -1,0 +1,220 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "title": "Water Therapy",
+      "hero": "Water Therapy",
+      "css": "/css/courseDetails.css",
+      "image": "/images/watertherepy.png",
+      "content": [
+        "Water Therapy, formerly called hydropathy and also called water cure, is a part of alternative medicine, occupational therapy, and physiotherapy, that involves the use of water for pain relief and treatment. The term encompasses a broad range of approaches and therapeutic methods that take advantage of the physical properties of water, such as temperature and pressure, for therapeutic purposes, to stimulate blood circulation and treat the symptoms of certain diseases.",
+
+        "It is also used as a medium for delivery of heat and cold to the body, which has long been the basis for its application. Hydrotherapy involves a range of methods and techniques, many of which use water as a medium to facilitate thermoregulatory reactions for therapeutic benefit."
+      ],
+      "instuctorName": "Roli Jain",
+      "instuctorImage": "/images/founder.png",
+      "instructorPage": "/founder",
+      "insructorContent": [
+        "Roli Jain is a Life Coach, Psychological Counselor, Reiki Master, Therapeutic Energy healer and Ex Principal. She is the founder of Happiness Valley Platform through which she gives her Online work shops and counselling Sessions.",
+
+        "She has given many workshops on Parenting, leadership, Vision Board and Healing qualities of water. She has been awarded with the prestigious 'Vivekanad Changemaker Award' by Mentrox. Presently her focus is on spreading an awareness amongst people that water which is so powerful has the potential to heal our lives. Let's respect it."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Reiki Healing",
+      "hero": "Reiki Healing",
+      "css": "/css/courseDetails.css",
+      "image": "/images/reki.png",
+      "content": [
+        "Reiki is a Japanese form of energy healing, which is a subset of alternative medicine. Reiki practitioners use a technique called palm healing or hands-on healing through which a universal energy is said to be transferred through the palms of the practitioner to the patient in order to encourage emotional or physical healing.",
+
+        "Reiki is a pseudoscience, and is used as an illustrative example of pseudoscience in scholarly texts and academic journal articles. It is based on qi , which practitioners say is a universal life force, although there is no empirical evidence that such a life force exists."
+      ],
+      "instuctorName": "Jyoti Dhawan",
+      "instuctorImage": "/images/Jyoti-Dhawan.png",
+      "instructorPage": "/coaches#2",
+      "insructorContent": [
+        "Jyoti Dhawan is a compassionate healer, counsellor and trainer practicing alternative healing modalities like Pranic Healing, Colour Therapy, Mudra Therapy, Reiki, Angelic Therapy, Switch Words, Energy Circles and Neuro Linguistic Programming.",
+
+        "She has been guiding & helping people for past 13 years. Presently her focus is on spreading an awareness amongst people on alternative healing modalities which is so powerful has the potential to heal our lives. Let's respect it."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Hypnotherapy Healing",
+      "hero": "Hypnotherapy Healing",
+      "css": "/css/courseDetails.css",
+      "image": "/images/hypnotherepy.png",
+      "content": [
+        "Hypnotherapy is a type of mind-body intervention in which hypnosis is used to create a state of focused attention and increased suggestibility in the treatment of a medical or psychological disorder or concern.",
+
+        "The form of hypnotherapy practiced by most Victorian hypnotists mainly employed direct suggestion of symptom removal, with some use of therapeutic relaxation and occasionally aversion to alcohol, drugs, etc. Cognitive behavioral hypnotherapy is an integrated psychological therapy employing clinical hypnosis and cognitive behavioral therapy. The use of CBT in conjunction with hypnotherapy may result in greater treatment effectiveness. A meta-analysis of eight different researches revealed a 70% greater improvement for patients undergoing an integrated treatment to those using CBT only."
+      ],
+      "instuctorName": "Neha Wadhwa",
+      "instuctorImage": "/images/Neha-Wadhwa.png",
+      "instructorPage": "/coaches#4",
+      "insructorContent": [
+        "Neha Wadhwa is a Pranic Healer who is proficient in healing via Hypnotherapy. She loves to help people resolve their problems via telephonic and personal sessions.",
+
+        "She has more than 10 years of healing experience. Her hypnosis sessions have helped a lot of people in finding relief from various ailments be it anxiety, IBS, fears and phobias and all physical diseases. She does therapy via physical sessions as well as on zoom and telephonic conversation."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Psychiatry Healing",
+      "hero": "Psychiatry Healing",
+      "css": "/css/courseDetails.css",
+      "image": "/images/psychiatery.png",
+      "content": [
+        "Psychiatry is the medical specialty devoted to the diagnosis, prevention, and treatment of mental disorders. These include various maladaptation related to mood, behavior, cognition, and perceptions. See glossary of psychiatry.",
+
+        "Combined treatment with psychiatric medication and psychotherapy has become the most common mode of psychiatric treatment in current practice, but contemporary practice also includes a wide variety of other modalities, e.g., assertive community treatment, community reinforcement, and supported employment. Treatment may be delivered on an inpatient or outpatient basis, depending on the severity of functional impairment or on other aspects of the disorder in question."
+      ],
+      "instuctorName": "Dr. Neelesh Tiwari",
+      "instuctorImage": "/images/Neelesh-Tiwari.png",
+      "instructorPage": "/coaches#1",
+      "insructorContent": [
+        "Dr. Neelesh Tiwari has done his M.D. in Psychiatry and also six months training in Neurology from one of the most prestigious medical colleges of India which is King George’s Medical College, Lucknow.",
+
+        "After completion of his M.D. Dr. Neelesh Tiwari has worked as Chief in the Department of Psychiatry, K.G.M.C. He has also worked in the Institute of Human Behavior & Allied Sciences Shahdara, Delhi and Dr. Ram Manohar Lohia Hospital, New Delhi.He has attended and presented dozens of papers / posters on different neuropsychiatric problems in many International and National conferences."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Gynecology Masterclass",
+      "hero": "Gynecology Masterclass",
+      "css": "/css/courseDetails.css",
+      "image": "/images/gynocology.png",
+      "content": [
+        "Gynecology is the medical practice dealing with the health of the female reproductive system. Almost all modern gynecologists are also obstetricians. In many areas, the specialties of gynecology and obstetrics overlap.",
+
+        "A women must first see a general practitioner prior to seeing a gynecologist. If their condition requires training, knowledge, surgical procedure, or equipment unavailable to the GP, the patient is then referred to a gynecologist. With this option available, some women opt to see a gynecological surgeon for non-gynecological problems without another physician's referral."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Neuro Linguistic Programming",
+      "hero": "Neuro Linguistic Programming",
+      "css": "/css/courseDetails.css",
+      "image": "/images/nlp.png",
+      "content": [
+        "Neuro Linguistic Programming's creators claim there is a connection between neurological processes, language and behavioral patterns learned through experience, and that these can be changed to achieve specific goals in life. NLP methodology can model the skills of exceptional people, allowing anyone to acquire those skills.",
+
+        "Often in a single session, NLP can treat problems such as phobias, depression, tic disorders, psychosomatic illnesses, near-sightedness, allergy, the common cold, and learning disorders."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sound Therapy",
+      "hero": "Sound Therapy",
+      "css": "/css/courseDetails.css",
+      "image": "/images/sound-healing.png",
+      "content": [
+        "Sound therapy is the clinical use of recorded sound, music, or spoken words, or a combination thereof, recorded on a physical medium such as a compact disc, or a digital file, including those formatted as MP3, which patients or participants play on a suitable device, and to which they listen with intent to experience a subsequent beneficial physiological, psychological, or social effect.",
+
+        "Sound therapy synthesize elements from a number of discrete areas of research and practice, including receptive music therapy, bibliotherapy, creative visualization, guided imagery, guided meditation, sound healing, and cognitive behavioral therapy."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Angelic Healing",
+      "hero": "Angelic Healing",
+      "css": "/css/courseDetails.css",
+      "image": "/images/angelic-healing.png",
+      "content": [
+        "Angel healing is a spiritual healing method where we work with our Guardian angels & Archangels to manifest miracles in our life.  We invoke specific angels to resolve specific issues like relationships, health, career, finances, grief, spiritual growth etc.",
+
+        "Angels are completely aligned with the divine will. They honour our free will & do not often take action in the physical realm unless we request them to do so. One who is attuned to the angelic realm can heal people with the help & guidance from angels."
+      ],
+      "instuctorName": "Jyoti Dhawan",
+      "instuctorImage": "/images/Jyoti-Dhawan.png",
+      "instructorPage": "/coaches#2",
+      "insructorContent": [
+        "Jyoti Dhawan is a compassionate healer, counsellor and trainer practicing alternative healing modalities like Pranic Healing, Colour Therapy, Mudra Therapy, Reiki, Angelic Therapy, Switch Words, Energy Circles and Neuro Linguistic Programming.",
+
+        "She has been guiding & helping people for past 13 years. Presently her focus is on spreading an awareness amongst people on alternative healing modalities which is so powerful has the potential to heal our lives. Let's respect it."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Mudra Healing",
+      "hero": "Mudra Healing",
+      "css": "/css/courseDetails.css",
+      "image": "/images/mudra.png",
+      "content": [
+        "A Mudra Therapy is an ancient healing technique based on ayurveda which is very powerful and gives life transforming results. It involves the use of hand postures to balance various elements in our body",
+
+        "Mudras are used in conjunction with pranayam, generally while in a seated posture, to stimulate different parts of the body involved with breathing and to affect the flow of prana. It is also associated with bindu, bodhicitta, amrita, or consciousness in the body. Unlike older tantric mudras, hatha yogic mudras are generally internal actions, involving the pelvic floor, diaphragm, throat, eyes, tongue, anus, genitals, abdomen, and other parts of the body."
+      ],
+      "instuctorName": "Jyoti Dhawan",
+      "instuctorImage": "/images/Jyoti-Dhawan.png",
+      "instructorPage": "/coaches#2",
+      "insructorContent": [
+        "Jyoti Dhawan is a compassionate healer, counsellor and trainer practicing alternative healing modalities like Pranic Healing, Colour Therapy, Mudra Therapy, Reiki, Angelic Therapy, Switch Words, Energy Circles and Neuro Linguistic Programming.",
+
+        "She has been guiding & helping people for past 13 years. Presently her focus is on spreading an awareness amongst people on alternative healing modalities which is so powerful has the potential to heal our lives. Let's respect it."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Switch Words",
+      "hero": "Switch Words",
+      "css": "/css/courseDetails.css",
+      "image": "/images/switch-words.png",
+      "content": [
+        "Switch words are simply the words that determine and alter your energy from one dimension to the other dimension. It means that words hold the power to change your energy. Switch words can be called single-word affirmations and can replace affirmations.",
+
+        "Switch words help you manifest. These powerful words speak directly to your subconscious mind, activating your ability to manifest money, creativity, self-healing and success. We all have desires and dreams to accomplish, both personally and professionally."
+      ],
+      "instuctorName": "Jyoti Dhawan",
+      "instuctorImage": "/images/Jyoti-Dhawan.png",
+      "instructorPage": "/coaches#2",
+      "insructorContent": [
+        "Jyoti Dhawan is a compassionate healer, counsellor and trainer practicing alternative healing modalities like Pranic Healing, Colour Therapy, Mudra Therapy, Reiki, Angelic Therapy, Switch Words, Energy Circles and Neuro Linguistic Programming.",
+
+        "She has been guiding & helping people for past 13 years. Presently her focus is on spreading an awareness amongst people on alternative healing modalities which is so powerful has the potential to heal our lives. Let's respect it."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Women Empowerment",
+      "hero": "Women Empowerment",
+      "css": "/css/courseDetails.css",
+      "image": "/images/women-empowerment.png",
+      "content": [
+        "Women's empowerment may be defined in several ways, including accepting women's viewpoints or making an effort to seek them, raising the status of women through education, awareness, literacy, and training. Women's empowerment equips and allows women to make life-determining decisions through the different problems in society.",
+
+        "Women's empowerment has become a significant topic of discussion in development and economics. Economic empowerment allows women to control and benefit from resources, assets, and income. It also aids the ability to manage risk and improve women's well-being."
+      ],
+      "instuctorName": "Pallavi Rao",
+      "instuctorImage": "/images/Pallavi-Rao.png",
+      "instructorPage": "/coaches#3",
+      "insructorContent": [
+        "Personal leadership refers to the ability to take charge and guide the direction of your life instead of letting your circumstances determine your course. Personal leadership can begin when you decide to be the captain of your own life’s ship and live by a personal mission statement that reflects your values and life goals.",
+
+        "While personal leadership develops from the inside out, its effects are felt not only by you and your family, but also by others in your community and workplace."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Financial Expert",
+      "hero": "Financial Expert",
+      "css": "/css/courseDetails.css",
+      "image": "/images/finance.png",
+      "content": [
+        "A financial adviser or financial advisor is a professional who provides financial services to clients based on their financial situation. In many countries, financial advisors must complete specific training and be registered with a regulatory body in order to provide advice.",
+
+        "Financial planners also focus on the investing side of personal finance as they are typically paid off the fees on investments. Most also are licensed to sell insurance products, and thus individuals can purchase life, disability and Individual Retirement Account products from financial planners as well."
+      ],
+      "instuctorName": "Manish Gupta",
+      "instuctorImage": "/images/Manish-Gupta.png",
+      "instructorPage": "/coaches#5",
+      "insructorContent": [
+        "Manish has been an investment consultant with a rich Banking, & Compliance experience of more than 20 years who provides his consultancy services to various retail investors and helps his clients and communities in building their short and long term investment portfolios in line with their investment objectives by taking wise investment decision to make every single penny count and build strong portfolio of diverse investment instruments to achieve long term financial objective.",
+
+        "He has trained various distributes and consultants and students on financial and investment literacy and conducted various investment summits/seminars to benefit the large and diverse audience."
+      ]
+    }
+  ]
+}

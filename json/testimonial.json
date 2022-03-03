@@ -1,0 +1,39 @@
+{
+  "title": "Testimonials",
+  "hero": "Testimonials",
+  "css": "/css/testimonial.css",
+  "testimonial": [
+    {
+      "id": 1,
+      "video": "/videos/testimonialOne.mp4"
+    },
+    {
+      "id": 2,
+      "video": "/videos/testimonialTwo.mp4"
+    },
+    {
+      "id": 3,
+      "video": "/videos/testimonialThree.mp4"
+    },
+    {
+      "id": 4,
+      "video": "/videos/testimonialFour.mp4"
+    },
+    {
+      "id": 5,
+      "video": "/videos/testimonialFive.mp4"
+    },
+    {
+      "id": 6,
+      "video": "/videos/testimonialSix.mp4"
+    },
+    {
+      "id": 7,
+      "video": "/videos/testimonialSeven.mp4"
+    },
+    {
+      "id": 8,
+      "video": "/videos/testimonialEight.mp4"
+    }
+  ]
+}

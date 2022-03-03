@@ -1,0 +1,25 @@
+{{#each details}}
+
+  <section id={{id}} class="coaches-sec">
+    <div class="grid-container">
+      <div class="grid-item image">
+        <img src={{image}} alt="Coaches Image" />
+      </div>
+      <div class="grid-item content">
+        <div>
+          <h2 class="bold">{{name}}</h2>
+          <h3>{{designation}}</h3>
+          <br /><br />
+          <ul>
+            {{#each content}}
+              <li>{{this}}</li>
+            {{/each}}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr />
+
+{{/each}}

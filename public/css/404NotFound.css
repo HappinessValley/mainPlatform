@@ -1,0 +1,23 @@
+/* Main Section */
+
+.not-found {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.not-found div {
+  background-color: var(--base-color);
+  padding: 25px;
+}
+
+.not-found div h1 {
+  font-family: var(--text-font);
+  font-size: 6rem;
+}
+
+.not-found div h2 {
+  font-family: var(--text-font);
+  font-size: 2rem;
+}

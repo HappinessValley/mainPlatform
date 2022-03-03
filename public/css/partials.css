@@ -1,0 +1,208 @@
+/* Header */
+
+.none {
+  display: none;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  background-color: white;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 2px solid var(--base-color);
+}
+
+.logo,
+nav {
+  display: inline-block;
+}
+
+nav {
+  width: 50%;
+}
+
+nav menu {
+  display: flex;
+  justify-content: space-around;
+}
+
+menu a {
+  font-family: var(--text-font);
+  font-size: 1rem;
+}
+
+.logo {
+  margin-left: 25px;
+}
+
+.logo img {
+  width: 50px;
+  border-radius: 100%;
+  border: 3px solid var(--base-color);
+}
+
+/* Mobile Header */
+
+.hamburger {
+  display: none;
+}
+
+/* Footer */
+
+footer {
+  background-color: lightgray;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer p {
+  font-family: var(--text-font);
+  font-size: 1.25rem;
+}
+
+footer a {
+  margin: 0 20px;
+  font-size: 1.5rem;
+}
+
+/* Hero Section */
+
+.sub-hero {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("/images/sub-hero.png");
+  background-position: center;
+  background-size: cover;
+  color: var(--font-color);
+  border-radius: 0 0 20% 20%;
+}
+
+.sub-hero div {
+  background-color: var(--base-color);
+  padding: 25px 50px;
+}
+
+.sub-hero h1 {
+  font-family: var(--heading-font);
+  font-size: 5rem;
+}
+
+/* Contact Form */
+
+.contact-sec {
+  width: 90%;
+  margin: 15vh auto;
+  text-align: center;
+}
+
+.contact-sec h2 {
+  font-family: var(--heading-font);
+  font-size: 5rem;
+}
+
+.contact-sec h3 {
+  font-family: var(--text-font);
+  font-size: 1rem;
+}
+
+.contact-sec img {
+  width: 25%;
+  opacity: 0.5;
+}
+
+.contact-sec form input,
+.contact-sec form textarea {
+  font-family: var(--text-font);
+  padding: 10px 20px;
+  border: 2px solid var(--base-color);
+  border-radius: 20px;
+  width: 60%;
+}
+
+.contact-sec form input:focus,
+.contact-sec form textarea:focus {
+  outline: inherit;
+}
+
+.form-button {
+  background-color: var(--base-color);
+  color: var(--font-color);
+  transition: 0.5s;
+}
+
+.form-button:hover {
+  background: transparent;
+  color: black;
+}
+
+/* Mobile View */
+
+@media only screen and (max-width: 500px) {
+  .none {
+    display: none;
+  }
+
+  .sub-hero h1 {
+    font-size: 3rem;
+  }
+
+  .contact-sec h2 {
+    font-size: 4rem;
+  }
+
+  nav {
+    display: none;
+  }
+
+  /* Mobile Header */
+
+  .hamburger {
+    display: block;
+  }
+
+  .hamburger .ham-icon {
+    background: transparent;
+    margin-right: 25px;
+    font-size: 2rem;
+    border: 0;
+    color: var(--base-color);
+  }
+
+  .small-menu {
+    z-index: 5;
+    padding: 20vh 0;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    background-color: white;
+  }
+
+  .small-menu .nav-menu a {
+    font-family: var(--text-font);
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
+  .close-menu {
+    position: absolute;
+    background: transparent;
+    border: 0;
+    top: 50px;
+    right: 50px;
+  }
+
+  .close-menu .ham-icon {
+    margin-right: 25px;
+    font-size: 2rem;
+    color: var(--base-color);
+  }
+}

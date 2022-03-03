@@ -1,0 +1,91 @@
+{
+  "title": "Courses",
+  "hero": "Our Courses",
+  "css": "/css/course.css",
+  "courses": [
+    {
+      "id": 1,
+      "image": "/images/watertherepy.png",
+      "heading": "Water <br> Therapy",
+      "content": "It involves use of water for pain relief and treatment.",
+      "link": "/courses/0/details"
+    },
+    {
+      "id": 2,
+      "image": "/images/reki.png",
+      "heading": "Reiki <br> Healing",
+      "content": "It's a Japanese form of energy healing treatment.",
+      "link": "/courses/1/details"
+    },
+    {
+      "id": 3,
+      "image": "/images/hypnotherepy.png",
+      "heading": "Hypnotherapy <br> Healing",
+      "content": "Hypnosis is used to create a state of focused attention.",
+      "link": "/courses/2/details"
+    },
+    {
+      "id": 4,
+      "image": "/images/psychiatery.png",
+      "heading": "Psychiatry <br> Healing",
+      "content": "It's a medical specialty devoted to the diagnosis.",
+      "link": "/courses/3/details"
+    },
+    {
+      "id": 5,
+      "image": "/images/gynocology.png",
+      "heading": "Gynecology <br> Masterclass",
+      "content": "It's the health of the female reproductive system.",
+      "link": "/courses/4/details"
+    },
+    {
+      "id": 6,
+      "image": "/images/nlp.png",
+      "heading": "Neuro Linguistic <br> Programming",
+      "content": "It's a psychological approach to reach personal goals.",
+      "link": "/courses/5/details"
+    },
+    {
+      "id": 7,
+      "image": "/images/sound-healing.png",
+      "heading": "Sound <br> Therapy",
+      "content": "It creates vibrations around the body in a meditative state.",
+      "link": "/courses/6/details"
+    },
+    {
+      "id": 8,
+      "image": "/images/angelic-healing.png",
+      "heading": "Angelic <br> Healing",
+      "content": "It will reveal lessons from the history today.",
+      "link": "/courses/7/details"
+    },
+    {
+      "id": 9,
+      "image": "/images/mudra.png",
+      "heading": "Mudra <br> Healing",
+      "content": "It's a hand position balancing energy in mind and body.",
+      "link": "/courses/8/details"
+    },
+    {
+      "id": 10,
+      "image": "/images/switch-words.png",
+      "heading": "Switch <br> Words",
+      "content": "Simple words that switch on your subconscious mind.",
+      "link": "/courses/9/details"
+    },
+    {
+      "id": 11,
+      "image": "/images/women-empowerment.png",
+      "heading": "Women <br> Empowerment",
+      "content": "Promoting a women's sense of self-esteem.",
+      "link": "/courses/10/details"
+    },
+    {
+      "id": 12,
+      "image": "/images/finance.png",
+      "heading": "Financial <br> Expert",
+      "content": "Financial coach helps you build financial goals.",
+      "link": "/courses/11/details"
+    }
+  ]
+}
